@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,KACI,WACJ,CAEA,aACI,aAAc,CACd,kBACJ","file":"style.bd855867.css","sourceRoot":"..\\src","sourcesContent":["body{\r\n    margin: 50px;\r\n}\r\n\r\n.container a{\r\n    display: block;\r\n    margin-bottom: 10px;\r\n}"]}
